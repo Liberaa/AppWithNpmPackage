@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "learn2dgame-js": "^1.0.5"
+    "learn2dgame-js": "^1.0.10"
   },
   "name": "appwithnpmpackage",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
